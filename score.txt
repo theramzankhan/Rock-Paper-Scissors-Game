@@ -1,0 +1,6 @@
+Sun Sep 22 20:06:46 IST 2019  --->   Ties 0 User 1 Comp 0
+Sun Sep 22 20:07:03 IST 2019  --->   Ties 0 User 0 Comp 0
+Sun Sep 22 20:07:11 IST 2019  --->   Ties 0 User 1 Comp 0
+Sun Sep 22 20:09:42 IST 2019  --->   Ties 0 User 0 Comp 0
+Sun Sep 22 20:14:44 IST 2019  --->   Ties 1 User 1 Comp 0
+Sun Sep 22 20:15:18 IST 2019  --->   Ties 0 User 1 Comp 0
